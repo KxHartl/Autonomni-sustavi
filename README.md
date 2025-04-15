@@ -1,1 +1,1 @@
-# Zadaca iz kolegija Autonomni sustavi
+# Zadace iz kolegija Autonomni sustavi
